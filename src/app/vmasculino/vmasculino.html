@@ -1,0 +1,35 @@
+<div class="container">
+
+<h1 class="titulo">Vestiário Masculino</h1>
+
+<div class="camisas">
+
+<i class="btn-anterior bi-arrow-left-square-fill"></i>
+
+    @for (item of elementos; track item.imagem){
+
+        <div class="Peça">
+            <p class="nome">{{item.nome}}</p>
+            <img [src]="item.imagem" [alt]="item.imagem" class="img">
+            <div class="precos">
+                <p class="$anterior">{{item.$anterior}}</p>
+                <p class="$posterior">{{item.$posterior}}</p>
+            </div>
+            <div class="tamanhos">
+                <button>PP</button>
+                <button>P</button>
+                <button>M</button>
+                <button>G</button>
+                <button>GG</button>
+            </div>
+            <button class="adicionar">Adicionar</button>
+        </div>
+
+
+    }
+
+    <i class="btn-proximo bi-arrow-right-square-fill"></i>
+
+</div>
+
+</div>

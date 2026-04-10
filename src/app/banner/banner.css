@@ -1,9 +1,11 @@
-.opcoes{
+.container{
     width: 1920px;
-    height: 250px;
+    height: 800px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 50px;
 }
 
 .titulo{
@@ -11,14 +13,34 @@
     font-size: 35px;
 }
 
-.btns{
-    gap: 10px;
+.destaques{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 1000px;
 }
 
 .btn-anterior{
-font-size: 50px;
+    font-size: 50px;
+}
+
+.btn-anterior:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
 }
 
 .btn-proximo{
-    font-size: 50px;
+    font-size: 50px
+}
+
+.btn-proximo:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.img-destaque:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
+
 }
