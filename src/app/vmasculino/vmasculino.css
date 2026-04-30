@@ -1,6 +1,6 @@
 .container{
     width: 1920px;
-    height: 600px;
+    height: 2000px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -13,14 +13,15 @@ font-weight: bold;
     margin-top: 50px;
 }
 
-.camisas{
+.opcoes-principais{
     display: flex;
     flex-direction: row;
-    width: 1920px;
+    width: 1200px;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 75px;
     margin: 50px;
+    flex-wrap: wrap;
 }
 
 .peça{
@@ -28,4 +29,73 @@ font-weight: bold;
     justify-content: center;
     align-items: center;
     text-align: center;
+    flex-direction: column;
+    width: 225px;
+    height: 400px;
+}
+
+.precos{
+font-size: 17px;
+}
+
+.nome{
+    font-weight: bolder;
+    font-size: 17.5px;
+}
+
+.tamanhos{
+    display: flex;
+    gap: 10px;
+    margin: 5px;
+}
+
+.btn-pp{
+    font-size: 12.5px;
+border-radius: 5px;
+border: 1px solid black;
+background-color: white;
+}
+
+.btn-p{
+    font-size: 12.5px;
+border-radius: 5px;
+border: 1px solid black;
+background-color: white;
+}
+
+.btn-pp{
+    font-size: 12.5px;
+border-radius: 5px;
+border: 1px solid black;
+background-color: white;
+}
+
+.btn-m{
+    font-size: 12.5px;
+border-radius: 5px;
+border: 1px solid black;
+background-color: white;
+}
+
+.btn-g{
+    font-size: 12.5px;
+border-radius: 5px;
+border: 1px solid black;
+background-color: white;
+}
+
+.btn-gg{
+    font-size: 12.5px;
+border-radius: 5px;
+border: 1px solid black;
+background-color: white;
+}
+
+.adicionar{
+    border-radius: 5px;
+border: 1px solid black;
+background-color: white;
+margin: 15px;
+width: 180px;
+font-size: 12.5px;
 }
