@@ -24,30 +24,6 @@ elementos = [
 },
 
 {
-  nome: 'Bota Social Marrom',
-  imagem: 'assets/images/vmasculino/bota-social-marrom.png',
-  $posterior: 'R$ 00,00'
-},
-
-{
-  nome: 'Relógio Prata Escuro',
-  imagem: 'assets/images/vmasculino/relogio-prata-escuro.png',
-  $posterior: 'R$ 00,00'
-},
-
-{
-  nome: 'Oculos Dourado Azul',
-  imagem: 'assets/images/vmasculino/oculos-dourado-azul.png',
-  $posterior: 'R$ 00,00'
-},
-
-{
-  nome: 'Sapato Social Preto',
-  imagem: 'assets/images/vmasculino/sapato-social-preto.png',
-  $posterior: 'R$ 00,00'
-},
-
-{
   nome: 'Calça Social Preta',
   imagem: 'assets/images/vmasculino/calca-social-preta.png',
   $posterior: 'R$ 00,00'
@@ -60,53 +36,52 @@ elementos = [
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Camisa Polo Branca',
+  imagem: 'assets/images/vmasculino/camisa-polo-branca.png',
   $posterior: 'R$ 00,00'
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Calça Jeans Branca',
+  imagem: 'assets/images/vmasculino/calca-jeans-branca.png',
   $posterior: 'R$ 00,00'
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Camisa Social Verde',
+  imagem: 'assets/images/vmasculino/camisa-social-verde.png',
   $posterior: 'R$ 00,00'
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Calça Social Verde',
+  imagem: 'assets/images/vmasculino/calca-social-branca.png',
   $posterior: 'R$ 00,00'
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Camisa Básica Preta',
+  imagem: 'assets/images/vmasculino/camisa-basica-preta.png',
   $posterior: 'R$ 00,00'
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Short Social Marrom',
+  imagem: 'assets/images/vmasculino/short-social-marrom.png',
   $posterior: 'R$ 00,00'
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Camisa Social Azul',
+  imagem: 'assets/images/vmasculino/camisa-social-azul.png',
   $posterior: 'R$ 00,00'
 },
 
 {
-  nome: 'x',
-  imagem: 'assets/images/vmasculino/x.png',
+  nome: 'Calça Social Listrada',
+  imagem: 'assets/images/vmasculino/calca-social-listrada.png',
   $posterior: 'R$ 00,00'
 },
-
 
 ]
 
